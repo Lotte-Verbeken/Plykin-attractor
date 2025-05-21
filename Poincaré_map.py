@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import time
-from  Utils import get_angular_coordinates,get_complex_coordinates,get_steriographic_projection
+from  Utils import get_angular_coordinates,get_complex_coordinates
 
 #defold
 mu=1
