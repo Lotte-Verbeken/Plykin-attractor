@@ -187,7 +187,7 @@ Cell[BoxData[
  RowBox[{
   RowBox[{"(*", " ", 
    RowBox[{
-   "Make", " ", "1", " ", "big", " ", "function", " ", "to", " ", "simplefy", 
+   "Make", " ", "1", " ", "big", " ", "function", " ", "to", " ", "simplify", 
     " ", "the", " ", "code"}], " ", "*)"}], "\n", 
   RowBox[{
    RowBox[{
