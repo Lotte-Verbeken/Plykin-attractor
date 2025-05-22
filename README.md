@@ -1,1 +1,1 @@
-# Plykin-attractor
+# Simulation code of the Plykin attractor
